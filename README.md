@@ -1,14 +1,11 @@
-# Movie-App
-Movie Streaming Site Template made using Next.js, Tailwind CSS , Shadcn and Typescript.
+# Cyber Security Website
+Cyber Security Site Template made using React, Tailwind CSS  and Typescript.
 
 
 
 ## Features
 - Responsive Design
-- Live Updation
-- Search
-- Filtering
-- Sorting
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/himuexe/Movie-App/main/moovieshub/src/assets/Capture.PNG">
