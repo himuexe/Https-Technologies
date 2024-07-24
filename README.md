@@ -8,40 +8,30 @@ Cyber Security Site Template made using React, Tailwind CSS  and Typescript.
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/Movie-App/main/moovieshub/src/assets/Capture.PNG">
+<img src="https://github.com/himuexe/Https-Technologies/blob/f3e85b63b3be4cd1efa83d184db750d7538934c7/frontend/src/assets/Capture1.JPG">
+
+
+<p align="center">
+<img src="https://github.com/himuexe/Https-Technologies/blob/f3e85b63b3be4cd1efa83d184db750d7538934c7/frontend/src/assets/Capture2.JPG">
 
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/Movie-App/main/moovieshub/src/assets/Capture2.PNG">
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/himuexe/Movie-App/main/moovieshub/src/assets/Capture3.PNG">
+<img src="https://github.com/himuexe/Https-Technologies/blob/f3e85b63b3be4cd1efa83d184db750d7538934c7/frontend/src/assets/Capture3.JPG">
 
 
 
 ## Installation-
 
-
-## ENV
-Create a .env file in the main dir  and add -
+Clone into your local Repository
 
 ```bash
-NEXT_URL=http://localhost:3000/ [Next local Address]
+npm i
 
-TMDB_API_KEY=[Your TMDB key]
-
-TMDB_READ_ACCESS_KEY=[Your Access Key]
 ```
-
-
-
 
 ## To run 
 ```bash
-pnpm  i
+npm run dev
 
-pnpm dev
 ```
