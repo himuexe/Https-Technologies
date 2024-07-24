@@ -3,7 +3,7 @@ import heroimgn from '../assets/heron.png'
 import { motion } from "framer-motion"
 export const HeroN = () => {
   return (
-    <div className="flex-row flex  items-center justify-center bg-black px-20 py-32">
+    <div className="flex-row flex  items-center justify-center px-20 py-32">
     <motion.div whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.5 }} className="text-blue-600 gap-10 flex  flex-col">

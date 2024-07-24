@@ -3,7 +3,7 @@ import { Button } from './ui/button'
 import {motion} from 'framer-motion'
 export const Docs = () => {
   return (
-    <div className="flex flex-row gap-40 bg-black px-20 py-20 text-left justify-center">
+    <div className="flex flex-row gap-40 px-20 py-20 text-left justify-center">
 
     <motion.div whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}

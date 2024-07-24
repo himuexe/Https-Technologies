@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 export const Help = () => {
   return (
-    <div className="flex  flex-col items-center justify-center px-20 bg-black py-16 gap-20">
+    <div className="flex  flex-col items-center justify-center px-20   py-16 gap-20">
       <motion.div whileInView={{ opacity: 1, y: 0 }}
           initial={{ opacity: 0, y: -100 }}
           transition={{ duration: 0.5 }} className="flex flex-col gap-6 justify-center items-center">

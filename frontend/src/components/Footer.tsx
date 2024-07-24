@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 export const Footer = () => {
   return (
     <>
-    <div className="flex flex-row px-20 bg-black py-20 justify-between">
+    <div className="flex flex-row px-20  py-20 justify-between">
       <motion.div  whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.5 }} className="flex flex-col gap-10">
@@ -46,7 +46,7 @@ export const Footer = () => {
         </div>
       </motion.div>
     </div>
-    <div className="flex flex-row justify-between px-20 bg-black pb-10">
+    <div className="flex flex-row justify-between px-20  00 pb-10">
       <motion.div whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.5 }} className="flex flex-col">
